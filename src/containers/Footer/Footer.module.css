@@ -1,0 +1,36 @@
+.wrapper {
+    margin: auto;
+    max-width: 1200px;
+}
+
+.container__personal {
+    display: flex;
+    justify-content: center;
+    margin-top: var(--spacing-big);
+}
+
+.container__contacts {
+    margin-top: var(--spacing-small);
+    display: flex;
+}
+
+.contacts__list {
+    display: flex;
+    align-items: center;
+}
+
+.contacts__list + .contacts__list {
+    margin-left: var(--spacing-medium);
+}
+
+.contacts__folder {
+    height: 11.2px;
+    margin-right: 5.6px;
+}
+
+.contacts__link {
+    cursor: pointer;
+    font-size: 12px;
+    line-height: 16px;
+    color: var(--color-blue);
+}

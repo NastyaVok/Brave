@@ -1,0 +1,18 @@
+.wrapper {
+    margin: auto;
+    max-width: 1200px;
+}
+
+.container {
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: var(--background-color);
+}
+
+.title {
+    font-size: var(--font-size-superbig);
+    line-height: var(--line-height-big);
+    color: var(--color-white);
+}

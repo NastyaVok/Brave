@@ -1,0 +1,21 @@
+.wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.img {
+    width: 140px;
+}
+
+.title {
+    margin-left: var(--spacing-big);
+    font-size: var(--font-size-big);
+    line-height: var(--line-height-big);
+}
+
+@media (max-width: 500px) {
+    .img {
+        width: 100px;
+    }
+}
