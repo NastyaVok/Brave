@@ -10,17 +10,6 @@ const App = () => {
   return (
     <>
       <Header/>
-            {/* <BrowserRouter>
-                <Routes>
-                    {routesConfig.map((route, index) => (
-                        <Route 
-                            key={index}
-                            path={route.path} 
-                            element={route.element} 
-                        />
-                    ))}
-                </Routes>
-            </BrowserRouter> */}
             <HashRouter>
                 <Routes>
                     {routesConfig.map((route, index) => (
