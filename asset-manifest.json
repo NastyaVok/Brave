@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Brave/static/css/main.ab88e49b.css",
+    "main.js": "/Brave/static/js/main.b0239cdc.js",
+    "static/media/Тинькофф.png": "/Brave/static/media/Тинькофф.5f2ee9cf73fc92f0d279.png",
+    "static/media/СберМобайл.png": "/Brave/static/media/СберМобайл.6af727adad4ffe601011.png",
+    "static/media/Билайн.png": "/Brave/static/media/Билайн.e2053a71ed9c8dbfa30d.png",
+    "static/media/МЕГАФОН.jpg": "/Brave/static/media/МЕГАФОН.979a317e6d75c036e672.jpg",
+    "static/media/Ростелеком.jpg": "/Brave/static/media/Ростелеком.24145f14ddc1db856688.jpg",
+    "static/media/TELE2.jpg": "/Brave/static/media/TELE2.66648e4f5c0bb9ba0d85.jpg",
+    "static/media/MTS.png": "/Brave/static/media/MTS.c2d0a0f2df9f845c1b16.png",
+    "static/media/hide.png": "/Brave/static/media/hide.54b3107d160578572bcc.png",
+    "index.html": "/Brave/index.html",
+    "main.ab88e49b.css.map": "/Brave/static/css/main.ab88e49b.css.map",
+    "main.b0239cdc.js.map": "/Brave/static/js/main.b0239cdc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab88e49b.css",
+    "static/js/main.b0239cdc.js"
+  ]
+}
